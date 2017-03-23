@@ -1,2 +1,2 @@
 # simple_nn
-Simple Neural Network
+Simple Neural Network with notes
