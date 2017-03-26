@@ -1,0 +1,24 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Python #
+##########
+*.pyc
+__pycache__
+*.ini
+
+# Repo-specific overrides #
+###########################
+
+# Ignore the data folder.
+/mnist_dataset
+# Ignore the ipython notebook checkpoints
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
